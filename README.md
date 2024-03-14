@@ -1,2 +1,2 @@
-# Andraid.Application.Development
+# Drink water reminder software
 
